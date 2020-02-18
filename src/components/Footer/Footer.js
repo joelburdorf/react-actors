@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <header>
-                <h2>Page &copy;</h2>
+                <h4>&copy; React Actors</h4>
             </header>
         );
     }

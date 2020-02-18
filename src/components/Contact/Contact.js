@@ -4,7 +4,9 @@ class Contact extends Component {
     render() {
         return (
             <header>
-                <h2>Joel Burdorf</h2>
+                <h2>Contact</h2>
+                <h3>Phone: 1-800-xxx-xxxx</h3>
+                <h3>Email: xxxxx@xxxxx.com</h3>
             </header>
         );
     }
